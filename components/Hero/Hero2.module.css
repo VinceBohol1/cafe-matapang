@@ -1,0 +1,28 @@
+.container {
+  height: max-content;
+  border-radius: 10px;
+  margin: 36px 36px 80px 36px;
+  background-color: rgba(73, 12, 12, 0.712);
+}
+
+.container > h1 {
+  max-width: 400px;
+  font-size: 64px;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-bottom: 18;
+  line-height: 1;
+  color: white;
+}
+
+.container > p {
+  display:inline-table;
+  justify-content:center;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 32px;
+  margin-top: 18px;
+  color: white;
+}

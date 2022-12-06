@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: 30px;
+  margin: 36px;
+  align-items: center;
+  color: white;
+}
+
+.navbarActions {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 81.25rem;
+  gap: 40px;
+  
+}
+
+.burgerButton {
+  display: none;
+}
+
+@media screen and (max-width: 500px) {
+  .navbarActions {
+    display: none;
+  }
+}

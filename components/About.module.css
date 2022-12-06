@@ -1,0 +1,32 @@
+.container {
+  background-color: rgba(92, 35, 13, 0.521);
+  padding: 36px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.message {
+  width: 100%;
+}
+
+.message > h2 {
+  font-size: 64px;
+}
+
+.message > p {
+  text-align: justify;
+  font-size: 24px;
+}
+
+.image {
+  width: 90%;
+  display: flex;
+  justify-content: right;
+}
+
+.image > img {
+  display: flex;
+  width: 80%;
+  height: 80%;
+}

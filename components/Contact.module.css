@@ -1,0 +1,43 @@
+.container {
+  background-color: #241f1fbe;
+  padding: 36px;
+  display: flex;
+  font-size: 20px;
+  color: white;
+  text-align: justify;
+}
+
+.message {
+  width: 100%;
+  text-align: right;
+}
+
+.message > h2 {
+  font-size: 42px;
+}
+
+.message > p {
+  font-size: 32px;
+}
+
+
+.image {
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  filter: invert(100%) sepia(0%) saturate(26%) hue-rotate(137deg) brightness(107%) contrast(108%);
+  gap: 20px;
+  margin-top: 300px;
+  color: white;
+}
+
+.image > img {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.image > h2{
+  font-size: 20;
+  filter: invert(100%) sepia(0%) saturate(26%) hue-rotate(137deg) brightness(107%) contrast(108%);
+}
