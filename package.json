@@ -16,5 +16,17 @@
     "react-burger-menu": "^3.0.8",
     "react-dom": "18.2.0",
     "react-responsive-carousel": "^3.2.23"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinceBohol1/cafe-matapang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinceBohol1/cafe-matapang/issues"
+  },
+  "homepage": "https://github.com/VinceBohol1/cafe-matapang#readme"
 }
